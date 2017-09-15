@@ -15,5 +15,5 @@ The official list of awesome unofficial Elvish modules.
   * [proxy.elv](https://github.com/zzamboni/vcsh_elvish/blob/master/.elvish/lib/proxy.elv): A module for manipulating proxy variables
 
 ## More Awesome Elvish Stuff
-  * [muesli/elvish-libs](https://github.com/muesli/elvish-libs): Various elvish libraries, including
-  * [zzamboni/vcsh_elvish](https://github.com/zzamboni/vcsh_elvish): A collection of awesome elvish libs, including
+  * [muesli/elvish-libs](https://github.com/muesli/elvish-libs): Various elvish libraries
+  * [zzamboni/vcsh_elvish](https://github.com/zzamboni/vcsh_elvish): A collection of awesome elvish libraries
