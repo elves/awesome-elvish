@@ -2,12 +2,18 @@
 
 The official list of awesome unofficial Elvish modules.
 
-* [zzamboni/vcsh_elvish](https://github.com/zzamboni/vcsh_elvish): Contains numerous awesome stuff, including
+## Prompt Themes
+  * [chain.elv](https://github.com/zzamboni/vcsh_elvish/blob/master/.elvish/lib/theme/chain.elv): Super configurable prompt theme with Git support
+  * [powerline.elv](https://github.com/muesli/elvish-libs/blob/master/theme/powerline.elv): Powerline style prompt theme
 
-  * a super configurable prompt theme with support for Git
-  * hook support for prompts
-  * a module for manipulating proxy variables
-  * notifications for long-running commands
-  * directory stack
-  * support for the traditional `!!` keybinding
-  * and many more!
+## Elvish Libraries
+  * [bangbang.elv](https://github.com/zzamboni/vcsh_elvish/blob/master/.elvish/lib/bang-bang.elv): Support for the traditional `!!` keybinding
+  * [dir.elv](https://github.com/zzamboni/vcsh_elvish/blob/master/.elvish/lib/dir.elv): Directory stack
+  * [git.elv](https://github.com/muesli/elvish-libs/blob/master/git.elv): Git module for prompts
+  * [long-running-notifications.elv](https://github.com/zzamboni/vcsh_elvish/blob/master/.elvish/lib/long-running-notifications.elv): Notifications for long-running commands
+  * [prompt-hooks.elv](https://github.com/zzamboni/vcsh_elvish/blob/master/.elvish/lib/prompt_hooks.elv): Hook support for prompts
+  * [proxy.elv](https://github.com/zzamboni/vcsh_elvish/blob/master/.elvish/lib/proxy.elv): A module for manipulating proxy variables
+
+## More Awesome Elvish Stuff
+  * [muesli/elvish-libs](https://github.com/muesli/elvish-libs): Various elvish libraries, including
+  * [zzamboni/vcsh_elvish](https://github.com/zzamboni/vcsh_elvish): A collection of awesome elvish libs, including
