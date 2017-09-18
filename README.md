@@ -6,6 +6,10 @@ The official list of awesome unofficial Elvish modules.
   * [chain.elv](https://github.com/zzamboni/vcsh_elvish/blob/master/.elvish/lib/theme/chain.elv): Super configurable prompt theme with Git support
   * [powerline.elv](https://github.com/muesli/elvish-libs/blob/master/theme/powerline.elv): Powerline style prompt theme
 
+## Completion Scripts
+
+  * [xiaq/compl](https://github.com/xiaq/compl): xiaq's completion scripts, now including one for `go`.
+
 ## Elvish Libraries
   * [bangbang.elv](https://github.com/zzamboni/vcsh_elvish/blob/master/.elvish/lib/bang-bang.elv): Support for the traditional `!!` keybinding
   * [dir.elv](https://github.com/zzamboni/vcsh_elvish/blob/master/.elvish/lib/dir.elv): Directory stack
