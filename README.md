@@ -34,9 +34,10 @@ corresponding modules.
   * [terminal-title.elv](https://github.com/zzamboni/elvish-modules/blob/master/terminal-title.org): A module for automatically setting the terminal title.
 
 ## Editor support
-  * [elvish-mode](https://github.com/ALSchwalm/elvish-mode) package for Emacs.
-  * [elvish.vim](https://github.com/dmix/elvish.vim) plugin for Vim.
-  * [language-elvish](https://atom.io/packages/language-elvish) package for Atom.
+  * [elvish-mode](https://github.com/ALSchwalm/elvish-mode) package for [Emacs](https://www.gnu.org/software/emacs/).
+  * [elvish.vim](https://github.com/dmix/elvish.vim) plugin for [Vim](http://www.vim.org/).
+  * [language-elvish](https://atom.io/packages/language-elvish) package for [Atom](https://atom.io/).
+  * [elvish.kak](https://github.com/notramo/elvish.kak) language file for [Kakoune](http://kakoune.org/).
 
 ## More Awesome Elvish Stuff
   * [zzamboni/dot_elvish](https://github.com/zzamboni/dot_elvish/blob/master/rc.org): Documented `rc.elv` file, using many of the modules above.
