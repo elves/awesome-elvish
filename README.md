@@ -26,16 +26,16 @@ epm:install <package name>
 
 ## Elvish Libraries
   * Package [github.com/muesli/elvish-libs](https://github.com/muesli/elvish-libs)
-    * [github.com/muesli/elvish-libs/git.elv](https://github.com/muesli/elvish-libs/blob/master/git.elv): Git utility functions (mainly for prompts).
+    * [github.com/muesli/elvish-libs/git](https://github.com/muesli/elvish-libs/blob/master/git.elv): Git utility functions (mainly for prompts).
   * Package [github.com/zzamboni/elvish-modules](https://github.com/zzamboni/elvish-modules/)
-    * [github.com/zzamboni/elvish-modules/alias.elv](https://github.com/zzamboni/elvish-modules/blob/master/alias.org): Support for persistent aliases and for parsing bash-style alias commands.
-    * [github.com/zzamboni/elvish-modules/bang-bang.elv](https://github.com/zzamboni/elvish-modules/blob/master/bang-bang.org): Support for the traditional `!!` and `!$` keybindings
-    * [github.com/zzamboni/elvish-modules/dir.elv](https://github.com/zzamboni/elvish-modules/blob/master/dir.org): Directory stack and support for `cd -` to mean "previous directory"
-    * [github.com/zzamboni/elvish-modules/long-running-notifications.elv](https://github.com/zzamboni/elvish-modules/blob/master/long-running-notifications.org): Notifications for long-running commands
-    * [github.com/zzamboni/elvish-modules/nix.elv](https://github.com/zzamboni/elvish-modules/blob/master/nix.org): Environment setting and some wrapper utilities for the [Nix](https://nixos.org/nix/) package manager.
-    * [github.com/zzamboni/elvish-modules/prompt-hooks.elv](https://github.com/zzamboni/elvish-modules/blob/master/prompt_hooks.org): Utilities for manipulating prompt hooks.
-    * [github.com/zzamboni/elvish-modules/proxy.elv](https://github.com/zzamboni/elvish-modules/blob/master/proxy.org): A module for manipulating and auto-setting proxy variables
-    * [github.com/zzamboni/elvish-modules/terminal-title.elv](https://github.com/zzamboni/elvish-modules/blob/master/terminal-title.org): A module for automatically setting the terminal title.
+    * [github.com/zzamboni/elvish-modules/alias](https://github.com/zzamboni/elvish-modules/blob/master/alias.org): Support for persistent aliases and for parsing bash-style alias commands.
+    * [github.com/zzamboni/elvish-modules/bang-bang](https://github.com/zzamboni/elvish-modules/blob/master/bang-bang.org): Support for the traditional `!!` and `!$` keybindings
+    * [github.com/zzamboni/elvish-modules/dir](https://github.com/zzamboni/elvish-modules/blob/master/dir.org): Directory stack and support for `cd -` to mean "previous directory"
+    * [github.com/zzamboni/elvish-modules/long-running-notifications](https://github.com/zzamboni/elvish-modules/blob/master/long-running-notifications.org): Notifications for long-running commands
+    * [github.com/zzamboni/elvish-modules/nix](https://github.com/zzamboni/elvish-modules/blob/master/nix.org): Environment setting and some wrapper utilities for the [Nix](https://nixos.org/nix/) package manager.
+    * [github.com/zzamboni/elvish-modules/prompt-hooks](https://github.com/zzamboni/elvish-modules/blob/master/prompt_hooks.org): Utilities for manipulating prompt hooks.
+    * [github.com/zzamboni/elvish-modules/proxy](https://github.com/zzamboni/elvish-modules/blob/master/proxy.org): A module for manipulating and auto-setting proxy variables
+    * [github.com/zzamboni/elvish-modules/terminal-title](https://github.com/zzamboni/elvish-modules/blob/master/terminal-title.org): A module for automatically setting the terminal title.
 
 ## Editor support
   * [elvish-mode](https://github.com/ALSchwalm/elvish-mode) package for [Emacs](https://www.gnu.org/software/emacs/).
