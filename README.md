@@ -36,6 +36,8 @@ epm:install <package name>
     * [github.com/zzamboni/elvish-modules/prompt-hooks](https://github.com/zzamboni/elvish-modules/blob/master/prompt_hooks.org): Utilities for manipulating prompt hooks.
     * [github.com/zzamboni/elvish-modules/proxy](https://github.com/zzamboni/elvish-modules/blob/master/proxy.org): A module for manipulating and auto-setting proxy variables
     * [github.com/zzamboni/elvish-modules/terminal-title](https://github.com/zzamboni/elvish-modules/blob/master/terminal-title.org): A module for automatically setting the terminal title.
+  * Package [github.com/iwoloschin/elvish-packages](https://github.com/iwoloschin/elvish-packages)
+    * [github.com/iwoloschin/elvish-packages/python](https://github.com/iwoloschin/elvish-packages/blob/master/python.elv): Support for Python virtual environments
 
 ## Editor support
   * [elvish-mode](https://github.com/ALSchwalm/elvish-mode) package for [Emacs](https://www.gnu.org/software/emacs/).
