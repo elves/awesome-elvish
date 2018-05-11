@@ -15,6 +15,8 @@ epm:install <package name>
     * [github.com/muesli/elvish-libs/powerline](https://github.com/muesli/elvish-libs/blob/master/theme/powerline.elv): Powerline style prompt theme
   * Package [github.com/zzamboni/elvish-themes](https://github.com/zzamboni/elvish-themes/)
     * [github.com/zzamboni/elvish-themes/chain](https://github.com/zzamboni/elvish-themes/blob/master/chain.org): Super configurable prompt theme with Git support
+  * Package [github.com/champii/elvish-base](https://github.com/champii/elvish-base)
+    * [github.com/champii/elvish-base/prompt](https://github.com/champii/elvish-base/blob/master/prompt.elv): Very basic prompt over two lines with simple git support
 
 ## Completion Scripts
   * Package [github.com/xiaq/edit.elv](https://github.com/xiaq/edit.elv)
@@ -38,12 +40,17 @@ epm:install <package name>
     * [github.com/zzamboni/elvish-modules/terminal-title](https://github.com/zzamboni/elvish-modules/blob/master/terminal-title.org): A module for automatically setting the terminal title.
   * Package [github.com/iwoloschin/elvish-packages](https://github.com/iwoloschin/elvish-packages)
     * [github.com/iwoloschin/elvish-packages/python](https://github.com/iwoloschin/elvish-packages/blob/master/python.elv): Support for Python virtual environments
+  * Package [github.com/champii/elvish-base](https://github.com/champii/elvish-base)
+    * [github.com/champii/elvish-base/git](https://github.com/champii/elvish-base/blob/master/git.elv): Git helpers
+    * [github.com/champii/elvish-base/utils](https://github.com/champii/elvish-base/blob/master/utils.elv): Helpers for usual shell manipulation
+    * [github.com/champii/elvish-base/fs](https://github.com/champii/elvish-base/blob/master/fs.elv): FS helpers and object oriented files
 
 ## Editor support
   * [elvish-mode](https://github.com/ALSchwalm/elvish-mode) package for [Emacs](https://www.gnu.org/software/emacs/).
   * [elvish.vim](https://github.com/dmix/elvish.vim) plugin for [Vim](http://www.vim.org/).
   * [language-elvish](https://atom.io/packages/language-elvish) package for [Atom](https://atom.io/).
   * [elvish.kak](https://github.com/notramo/elvish.kak) language file for [Kakoune](http://kakoune.org/).
+  * [vscode-elvish](https://github.com/champii/vscode-elvish) language support for [VSCode](https://code.visualstudio.com/).
 
 ## More Awesome Elvish Stuff
   * [zzamboni/dot_elvish](https://github.com/zzamboni/dot_elvish/blob/master/rc.org): Documented `rc.elv` file, using many of the modules above.
