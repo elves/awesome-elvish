@@ -17,6 +17,8 @@ epm:install <package name>
     * [github.com/zzamboni/elvish-themes/chain](https://github.com/zzamboni/elvish-themes/blob/master/chain.org): Super configurable prompt theme with Git support
   * Package [github.com/champii/elvish-base](https://github.com/champii/elvish-base)
     * [github.com/champii/elvish-base/prompt](https://github.com/champii/elvish-base/blob/master/prompt.elv): Very basic prompt over two lines with simple git support
+  * Package [github.com/tylerreckart/gondolin](https://github.com/tylerreckart/gondolin)
+    * [github.com/tylerreckart/gondolin/gondolin](https://github.com/tylerreckart/gondolin/blob/master/gondolin.elv): A simple two-line prompt with extensive Git support
 
 ## Completion Scripts
   * Package [github.com/xiaq/edit.elv](https://github.com/xiaq/edit.elv)
