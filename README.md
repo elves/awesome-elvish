@@ -42,6 +42,8 @@ epm:install <package name>
     * [github.com/zzamboni/elvish-modules/terminal-title](https://github.com/zzamboni/elvish-modules/blob/master/terminal-title.org): A module for automatically setting the terminal title.
   * Package [github.com/iwoloschin/elvish-packages](https://github.com/iwoloschin/elvish-packages)
     * [github.com/iwoloschin/elvish-packages/python](https://github.com/iwoloschin/elvish-packages/blob/master/python.elv): Support for Python virtual environments
+  * Package [github.com/jkbr-19/sindarin-term](https://github.com/jkbr-19/sindarin-term)
+    * [github.com/jkbr-19/sindarin-term/date-elv](https://github.com/jkbr-19/sindarin-term/blob/master/date-elv.elv): A module for printing the date in elvish (Sindarin) written in Elvish
   * Package [github.com/champii/elvish-base](https://github.com/champii/elvish-base)
     * [github.com/champii/elvish-base/git](https://github.com/champii/elvish-base/blob/master/git.elv): Git helpers
     * [github.com/champii/elvish-base/utils](https://github.com/champii/elvish-base/blob/master/utils.elv): Helpers for usual shell manipulation
