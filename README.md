@@ -53,7 +53,7 @@ epm:install <package name>
   * [elvish-mode](https://github.com/ALSchwalm/elvish-mode) package for [Emacs](https://www.gnu.org/software/emacs/).
   * [elvish.vim](https://github.com/dmix/elvish.vim) plugin for [Vim](http://www.vim.org/).
   * [language-elvish](https://atom.io/packages/language-elvish) package for [Atom](https://atom.io/).
-  * [elvish.kak](https://github.com/notramo/elvish.kak) language file for [Kakoune](http://kakoune.org/).
+  * [elvish.kak](https://gitlab.com/notramo/elvish.kak) language file for [Kakoune](http://kakoune.org/).
   * [vscode-elvish](https://github.com/champii/vscode-elvish) language support for [VSCode](https://code.visualstudio.com/).
 
 ## More Awesome Elvish Stuff
