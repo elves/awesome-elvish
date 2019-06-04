@@ -48,6 +48,10 @@ epm:install <package name>
     * [github.com/champii/elvish-base/git](https://github.com/champii/elvish-base/blob/master/git.elv): Git helpers
     * [github.com/champii/elvish-base/utils](https://github.com/champii/elvish-base/blob/master/utils.elv): Helpers for usual shell manipulation
     * [github.com/champii/elvish-base/fs](https://github.com/champii/elvish-base/blob/master/fs.elv): FS helpers and object oriented files
+  * Package [github.com/doubleagent/rivendell](https://github.com/doubleagent/rivendell)
+    * [github.com/doubleagent/rivendell/fun](https://github.com/doubleagent/rivendell/blob/master/fun.elv): Helps your elvish code to be more functional
+    * [github.com/doubleagent/rivendell/lazy](https://github.com/doubleagent/rivendell/blob/master/lazy.elv): Gives you access to lazy iterators, infinite sequences, and multiple higher-level iterators  
+
 
 ## Editor support
   * [elvish-mode](https://github.com/ALSchwalm/elvish-mode) package for [Emacs](https://www.gnu.org/software/emacs/).
