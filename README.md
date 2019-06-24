@@ -48,6 +48,8 @@ epm:install <package name>
     * [github.com/champii/elvish-base/git](https://github.com/champii/elvish-base/blob/master/git.elv): Git helpers
     * [github.com/champii/elvish-base/utils](https://github.com/champii/elvish-base/blob/master/utils.elv): Helpers for usual shell manipulation
     * [github.com/champii/elvish-base/fs](https://github.com/champii/elvish-base/blob/master/fs.elv): FS helpers and object oriented files
+  * Package [github.com/href/elvish-gitstatus](https://github.com/href/elvish-gitstatus)
+    * [github.com/href/elvish-gitstatus/gitstatus](https://github.com/href/elvish-gitstatus/blob/master/gitstatus.elv): [Gitstatus](https://github.com/romkatv/gitstatus) integration for Elvish.
 
 ## Editor support
   * [elvish-mode](https://github.com/ALSchwalm/elvish-mode) package for [Emacs](https://www.gnu.org/software/emacs/).
