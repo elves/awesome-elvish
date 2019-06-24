@@ -57,6 +57,7 @@ epm:install <package name>
   * [language-elvish](https://atom.io/packages/language-elvish) package for [Atom](https://atom.io/).
   * [elvish.kak](https://github.com/notramo/elvish.kak) language file for [Kakoune](http://kakoune.org/).
   * [vscode-elvish](https://github.com/champii/vscode-elvish) language support for [VSCode](https://code.visualstudio.com/).
+  * [elvish_syntax_for_sublime](https://github.com/href/elvish_syntax_for_sublime) language support for [Sublime Text 3](https://www.sublimetext.com).
 
 ## More Awesome Elvish Stuff
   * [zzamboni/dot_elvish](https://github.com/zzamboni/dot_elvish/blob/master/rc.org): Documented `rc.elv` file, using many of the modules above.
