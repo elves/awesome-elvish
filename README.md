@@ -48,6 +48,8 @@ epm:install <package name>
     * [github.com/champii/elvish-base/git](https://github.com/champii/elvish-base/blob/master/git.elv): Git helpers
     * [github.com/champii/elvish-base/utils](https://github.com/champii/elvish-base/blob/master/utils.elv): Helpers for usual shell manipulation
     * [github.com/champii/elvish-base/fs](https://github.com/champii/elvish-base/blob/master/fs.elv): FS helpers and object oriented files
+  * Package [github.com/href/elvish-gitstatus](https://github.com/href/elvish-gitstatus)
+    * [github.com/href/elvish-gitstatus/gitstatus](https://github.com/href/elvish-gitstatus/blob/master/gitstatus.elv): [Gitstatus](https://github.com/romkatv/gitstatus) integration for Elvish.
   * Package [github.com/doubleagent/rivendell](https://github.com/doubleagent/rivendell)
     * [github.com/doubleagent/rivendell/fun](https://github.com/doubleagent/rivendell/blob/master/fun.elv): Helps your elvish code to be more functional
     * [github.com/doubleagent/rivendell/lazy](https://github.com/doubleagent/rivendell/blob/master/lazy.elv): Gives you access to lazy iterators, infinite sequences, and multiple higher-level iterators  
@@ -59,6 +61,7 @@ epm:install <package name>
   * [language-elvish](https://atom.io/packages/language-elvish) package for [Atom](https://atom.io/).
   * [elvish.kak](https://github.com/notramo/elvish.kak) language file for [Kakoune](http://kakoune.org/).
   * [vscode-elvish](https://github.com/champii/vscode-elvish) language support for [VSCode](https://code.visualstudio.com/).
+  * [elvish_syntax_for_sublime](https://github.com/href/elvish_syntax_for_sublime) language support for [Sublime Text 3](https://www.sublimetext.com).
 
 ## More Awesome Elvish Stuff
   * [zzamboni/dot_elvish](https://github.com/zzamboni/dot_elvish/blob/master/rc.org): Documented `rc.elv` file, using many of the modules above.
