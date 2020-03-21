@@ -42,6 +42,7 @@ epm:install <package name>
     * [github.com/zzamboni/elvish-modules/terminal-title](https://github.com/zzamboni/elvish-modules/blob/master/terminal-title.org): A module for automatically setting the terminal title.
   * Package [github.com/iwoloschin/elvish-packages](https://github.com/iwoloschin/elvish-packages)
     * [github.com/iwoloschin/elvish-packages/python](https://github.com/iwoloschin/elvish-packages/blob/master/python.elv): Support for Python virtual environments
+    * [github.com/iwoloschin/elvish-packages/update](https://github.com/iwoloschin/elvish-packages/blob/master/update.elv): A tool to check if a newer version of Elvish is available.
   * Package [github.com/jkbr-19/sindarin-term](https://github.com/jkbr-19/sindarin-term)
     * [github.com/jkbr-19/sindarin-term/date-elv](https://github.com/jkbr-19/sindarin-term/blob/master/date-elv.elv): A module for printing the date in elvish (Sindarin) written in Elvish
   * Package [github.com/champii/elvish-base](https://github.com/champii/elvish-base)
@@ -62,6 +63,7 @@ epm:install <package name>
   * [elvish.kak](https://gitlab.com/notramo/elvish.kak) language file for [Kakoune](http://kakoune.org/).
   * [vscode-elvish](https://github.com/champii/vscode-elvish) language support for [VSCode](https://code.visualstudio.com/).
   * [elvish_syntax_for_sublime](https://github.com/href/elvish_syntax_for_sublime) language support for [Sublime Text 3](https://www.sublimetext.com).
+  * [elvish-lang-plugin](https://github.com/sblundy/elvish-lang-plugin) plugin for [PyCharm](https://www.jetbrains.com/pycharm)
 
 ## More Awesome Elvish Stuff
   * [zzamboni/dot_elvish](https://github.com/zzamboni/dot_elvish/blob/master/rc.org): Documented `rc.elv` file, using many of the modules above.
