@@ -64,6 +64,7 @@ epm:install <package name>
   * [vscode-elvish](https://github.com/champii/vscode-elvish) language support for [VSCode](https://code.visualstudio.com/).
   * [elvish_syntax_for_sublime](https://github.com/href/elvish_syntax_for_sublime) language support for [Sublime Text 3](https://www.sublimetext.com).
   * [elvish-lang-plugin](https://github.com/sblundy/elvish-lang-plugin) plugin for [PyCharm](https://www.jetbrains.com/pycharm)
+  * [elvish-micro-syntax](https://github.com/kolbycrouch/elvish-micro-syntax) syntax highlighting for [Micro](https://github.com/zyedidia/micro)
 
 ## More Awesome Elvish Stuff
   * [zzamboni/dot_elvish](https://github.com/zzamboni/dot_elvish/blob/master/rc.org): Documented `rc.elv` file, using many of the modules above.
