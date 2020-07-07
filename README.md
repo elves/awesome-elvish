@@ -66,5 +66,9 @@ epm:install <package name>
   * [elvish-lang-plugin](https://github.com/sblundy/elvish-lang-plugin) plugin for [PyCharm](https://www.jetbrains.com/pycharm)
   * [elvish-micro-syntax](https://github.com/kolbycrouch/elvish-micro-syntax) syntax highlighting for [Micro](https://github.com/zyedidia/micro)
 
+## Terminal integration
+
+  * [github.com/zzamboni/elvish-modules/iterm2](https://github.com/zzamboni/elvish-modules/blob/master/iterm2.org): Support for iTerm2 [Shell Integration](https://iterm2.com/documentation-shell-integration.html) features.
+
 ## More Awesome Elvish Stuff
   * [zzamboni/dot_elvish](https://github.com/zzamboni/dot_elvish/blob/master/rc.org): Documented `rc.elv` file, using many of the modules above.
