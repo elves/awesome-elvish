@@ -55,7 +55,7 @@ epm:install <package name>
     * [github.com/doubleagent/rivendell/fun](https://github.com/doubleagent/rivendell/blob/master/fun.elv): Helps your elvish code to be more functional
     * [github.com/doubleagent/rivendell/lazy](https://github.com/doubleagent/rivendell/blob/master/lazy.elv): Gives you access to lazy iterators, infinite sequences, and multiple higher-level iterators  
 
-## Editor support
+## Editor Support
   * [elvish-mode](https://github.com/ALSchwalm/elvish-mode) package for [Emacs](https://www.gnu.org/software/emacs/).
   * [elvish.vim](https://github.com/dmix/elvish.vim) plugin for [Vim](http://www.vim.org/).
   * [language-elvish](https://atom.io/packages/language-elvish) package for [Atom](https://atom.io/).
@@ -65,7 +65,7 @@ epm:install <package name>
   * [elvish-lang-plugin](https://github.com/sblundy/elvish-lang-plugin) plugin for [PyCharm](https://www.jetbrains.com/pycharm)
   * [elvish-micro-syntax](https://github.com/kolbycrouch/elvish-micro-syntax) syntax highlighting for [Micro](https://github.com/zyedidia/micro)
 
-## Terminal integration
+## Terminal Integration
   * [github.com/zzamboni/elvish-modules/iterm2](https://github.com/zzamboni/elvish-modules/blob/master/iterm2.org): Support for iTerm2 [Shell Integration](https://iterm2.com/documentation-shell-integration.html) features.
 
 ## More Awesome Elvish Stuff
