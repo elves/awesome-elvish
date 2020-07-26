@@ -39,6 +39,7 @@ epm:install <package name>
     * [github.com/zzamboni/elvish-modules/nix](https://github.com/zzamboni/elvish-modules/blob/master/nix.org): Environment setting and some wrapper utilities for the [Nix](https://nixos.org/nix/) package manager.
     * [github.com/zzamboni/elvish-modules/prompt-hooks](https://github.com/zzamboni/elvish-modules/blob/master/prompt_hooks.org): Utilities for manipulating prompt hooks.
     * [github.com/zzamboni/elvish-modules/proxy](https://github.com/zzamboni/elvish-modules/blob/master/proxy.org): A module for manipulating and auto-setting proxy variables
+    * [github.com/zzamboni/elvish-modules/spinners](https://github.com/zzamboni/elvish-modules/blob/master/spinners.org): A module to generate different styles of progress spinners for use in Elvish scripts.
     * [github.com/zzamboni/elvish-modules/terminal-title](https://github.com/zzamboni/elvish-modules/blob/master/terminal-title.org): A module for automatically setting the terminal title.
   * Package [github.com/iwoloschin/elvish-packages](https://github.com/iwoloschin/elvish-packages)
     * [github.com/iwoloschin/elvish-packages/python](https://github.com/iwoloschin/elvish-packages/blob/master/python.elv): Support for Python virtual environments
