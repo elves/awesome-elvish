@@ -19,7 +19,7 @@ epm:install <package name>
     * [github.com/champii/elvish-base/prompt](https://github.com/champii/elvish-base/blob/master/prompt.elv): Very basic prompt over two lines with simple git support
   * Package [github.com/tylerreckart/gondolin](https://github.com/tylerreckart/gondolin)
     * [github.com/tylerreckart/gondolin/gondolin](https://github.com/tylerreckart/gondolin/blob/master/gondolin.elv): A simple two-line prompt with extensive Git support
-  * Package [github.com/silver-prompt/elvish](https://github.com/silver-prompt/elvush/)
+  * Package [github.com/silver-prompt/elvish](https://github.com/silver-prompt/elvish/)
     * [github.com/silver-prompt/elvish/silver](https://github.com/silver-prompt/elvish/blob/master/silver.elv): A cross-shell customizable powerline-like prompt written in Rust
 ## Completion Scripts
   * Package [github.com/xiaq/edit.elv](https://github.com/xiaq/edit.elv)
