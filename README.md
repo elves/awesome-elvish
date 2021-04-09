@@ -71,4 +71,5 @@ epm:install <package name>
   * [github.com/zzamboni/elvish-modules/iterm2](https://github.com/zzamboni/elvish-modules/blob/master/iterm2.org): Support for iTerm2 [Shell Integration](https://iterm2.com/documentation-shell-integration.html) features.
 
 ## More Awesome Elvish Stuff
+  * [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide): a fast alternative to `cd` that learns your habits.
   * [zzamboni/dot_elvish](https://github.com/zzamboni/dot_elvish/blob/master/rc.org): Documented `rc.elv` file, using many of the modules above.
