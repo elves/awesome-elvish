@@ -56,6 +56,8 @@ epm:install <package name>
   * Package [github.com/doubleagent/rivendell](https://github.com/doubleagent/rivendell)
     * [github.com/doubleagent/rivendell/fun](https://github.com/doubleagent/rivendell/blob/master/fun.elv): Helps your elvish code to be more functional
     * [github.com/doubleagent/rivendell/lazy](https://github.com/doubleagent/rivendell/blob/master/lazy.elv): Gives you access to lazy iterators, infinite sequences, and multiple higher-level iterators  
+  * Package [github.com/kolbycrouch/elvish-libs](https://github.com/kolbycrouch/elvish-libs)
+    * [github.com/kolbycrouch/elvish-libs/pure](https://github.com/kolbycrouch/elvish-libs/tree/master/pure): Pure elvish utility libraries
 
 ## Editor Support
   * [elvish-mode](https://github.com/ALSchwalm/elvish-mode) package for [Emacs](https://www.gnu.org/software/emacs/).
