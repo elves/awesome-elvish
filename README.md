@@ -2,8 +2,8 @@
 
 The official list of awesome unofficial Elvish modules.
 
-Each module is listed under the package to which it belongs. You can
-install each package using [epm](https://elvish.io/ref/epm.html) with:
+Most of these modules are part of an Elvish packages that can be
+installed with [epm](https://elvish.io/ref/epm.html) like:
 
 ```
 use epm
@@ -28,7 +28,7 @@ epm:install <package name>
     * [github.com/zzamboni/elvish-completions/cd](https://github.com/zzamboni/elvish-completions/blob/master/cd.org): completion for `cd`
     * [github.com/zzamboni/elvish-completions/git](https://github.com/zzamboni/elvish-completions/blob/master/git.org): completion for `git`
     * [github.com/zzamboni/elvish-completions/vcsh](https://github.com/zzamboni/elvish-completions/blob/master/vcsh.org): completion for `vcsh`
-  * [rsteube/carapace-bin](https://github.com/rsteube/carapace-bin) completions for various commands
+  * [rsteube/carapace-bin](https://github.com/rsteube/carapace-bin) completions for various commands (not an `epm` package)
 
 ## Elvish Libraries
   * Package [github.com/muesli/elvish-libs](https://github.com/muesli/elvish-libs)
