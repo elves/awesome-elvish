@@ -29,6 +29,7 @@ epm:install <package name>
     * [github.com/zzamboni/elvish-completions/git](https://github.com/zzamboni/elvish-completions/blob/master/git.org): completion for `git`
     * [github.com/zzamboni/elvish-completions/vcsh](https://github.com/zzamboni/elvish-completions/blob/master/vcsh.org): completion for `vcsh`
   * [rsteube/carapace-bin](https://github.com/rsteube/carapace-bin) completions for various commands (not an `epm` package)
+  * [aca/elvish-bash-completion](https://github.com/aca/elvish-bash-completion) to convert any bash completion to elvish.
 
 ## Elvish Libraries
   * Package [github.com/muesli/elvish-libs](https://github.com/muesli/elvish-libs)
