@@ -60,6 +60,8 @@ epm:install <package name>
     * [github.com/doubleagent/rivendell/lazy](https://github.com/doubleagent/rivendell/blob/master/lazy.elv): Gives you access to lazy iterators, infinite sequences, and multiple higher-level iterators  
   * Package [github.com/kolbycrouch/elvish-libs](https://github.com/kolbycrouch/elvish-libs)
     * [github.com/kolbycrouch/elvish-libs/pure](https://github.com/kolbycrouch/elvish-libs/tree/master/pure): Pure elvish utility libraries
+  * Package [github.com/gergelyk/elvish-libs](https://github.com/gergelyk/elvish-libs)
+    * [github.com/gergelyk/elvish-libs/python](https://github.com/gergelyk/elvish-libs/blob/main/python.elv): Evaluate Python inplace. Switch venv automatically.
 
 ## Editor Support
   * [elvish-mode](https://github.com/ALSchwalm/elvish-mode) package for [Emacs](https://www.gnu.org/software/emacs/).
