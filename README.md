@@ -1,6 +1,6 @@
 # awesome-elvish
 
-The official list of awesome unofficial Elvish modules.
+The official list of awesome unofficial Elvish modules, and tools that support elvish.
 
 Most of these modules are part of an Elvish packages that can be
 installed with [epm](https://elvish.io/ref/epm.html) like:
@@ -21,6 +21,7 @@ epm:install <package name>
     * [github.com/tylerreckart/gondolin/gondolin](https://github.com/tylerreckart/gondolin/blob/master/gondolin.elv): A simple two-line prompt with extensive Git support
   * Package [github.com/silver-prompt/elvish](https://github.com/silver-prompt/elvish/)
     * [github.com/silver-prompt/elvish/silver](https://github.com/silver-prompt/elvish/blob/master/silver.elv): A cross-shell customizable powerline-like prompt written in Rust
+  * Binary [Starship](https://starship.rs): A cross-shell, minimal, bazingly-fast prompt written in Rust (not an `epm` package)
 ## Completion Scripts
   * Package [github.com/xiaq/edit.elv](https://github.com/xiaq/edit.elv)
     * [github.com/xiaq/edit.elv/compl/go](https://github.com/xiaq/edit.elv/blob/master/compl/go.elv): completions for `go`
@@ -28,7 +29,7 @@ epm:install <package name>
     * [github.com/zzamboni/elvish-completions/cd](https://github.com/zzamboni/elvish-completions/blob/master/cd.org): completion for `cd`
     * [github.com/zzamboni/elvish-completions/git](https://github.com/zzamboni/elvish-completions/blob/master/git.org): completion for `git`
     * [github.com/zzamboni/elvish-completions/vcsh](https://github.com/zzamboni/elvish-completions/blob/master/vcsh.org): completion for `vcsh`
-  * [rsteube/carapace-bin](https://github.com/rsteube/carapace-bin) completions for various commands (not an `epm` package)
+  * [rsteube/carapace-bin](https://github.com/rsteube/carapace-bin) built-in completions for [over 400 commands](https://rsteube.github.io/carapace-bin/completers.html), and support for custom completions (not an `epm` package)
 
 ## Elvish Libraries
   * Package [github.com/muesli/elvish-libs](https://github.com/muesli/elvish-libs)
