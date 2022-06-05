@@ -52,31 +52,30 @@ A curated list of awesome Elvish packages, modules, and tools that support Elvis
 | Name | Description |
 | ---- | ----------- |
 | 📦 [github.com/muesli/elvish-libs](https://github.com/muesli/elvish-libs) |
-|  🧩 [github.com/muesli/elvish-libs/git](https://github.com/muesli/elvish-libs/blob/master/git.elv) | Git utility functions (mainly for prompts) |
+|  🧩 [git](https://github.com/muesli/elvish-libs/blob/master/git.elv) | Git utility functions (mainly for prompts) |
 | 📦 [github.com/zzamboni/elvish-modules](https://github.com/zzamboni/elvish-modules/) |
-|  🧩 [github.com/zzamboni/elvish-modules/alias](https://github.com/zzamboni/elvish-modules/blob/master/alias.org) | Support for persistent aliases and for parsing bash-style alias commands. |
-|  🧩 [github.com/zzamboni/elvish-modules/bang-bang](https://github.com/zzamboni/elvish-modules/blob/master/bang-bang.org) | Support for the traditional `!!` and `!$` keybindings |
-|  🧩 [github.com/zzamboni/elvish-modules/dir](https://github.com/zzamboni/elvish-modules/blob/master/dir.org) | Directory stack and support for `cd -` to mean "previous directory" |
-|  🧩 [github.com/zzamboni/elvish-modules/long-running-notifications](https://github.com/zzamboni/elvish-modules/blob/master/long-running-notifications.org) | Notifications for long-running commands |
-|  🧩 [github.com/zzamboni/elvish-modules/nix](https://github.com/zzamboni/elvish-modules/blob/master/nix.org) | Environment setting and some wrapper utilities for the [Nix](https://nixos.org/nix/) package manager. |
-|  🧩 [github.com/zzamboni/elvish-modules/prompt-hooks](https://github.com/zzamboni/elvish-modules/blob/master/prompt_hooks.org) | Utilities for manipulating prompt hooks. |
-|  🧩 [github.com/zzamboni/elvish-modules/proxy](https://github.com/zzamboni/elvish-modules/blob/master/proxy.org) | A module for manipulating and auto-setting proxy variables |
-|  🧩 [github.com/zzamboni/elvish-modules/spinners](https://github.com/zzamboni/elvish-modules/blob/master/spinners.org) | A module to generate different styles of progress spinners for use in Elvish scripts. |
-|  🧩 [github.com/zzamboni/elvish-modules/terminal-title](https://github.com/zzamboni/elvish-modules/blob/master/terminal-title.org) | A module for automatically setting the terminal title. |
+|  🧩 [alias](https://github.com/zzamboni/elvish-modules/blob/master/alias.org) | Support for persistent aliases and for parsing bash-style alias commands. |
+|  🧩 [bang-bang](https://github.com/zzamboni/elvish-modules/blob/master/bang-bang.org) | Support for the traditional `!!` and `!$` keybindings |
+|  🧩 [dir](https://github.com/zzamboni/elvish-modules/blob/master/dir.org) | Directory stack and support for `cd -` to mean "previous directory" |
+|  🧩 [long-running-notifications](https://github.com/zzamboni/elvish-modules/blob/master/long-running-notifications.org) | Notifications for long-running commands |
+|  🧩 [elvish-modules/nix](https://github.com/zzamboni/elvish-modules/blob/master/nix.org) | Environment setting and some wrapper utilities for the [Nix](https://nixos.org/nix/) package manager. |
+|  🧩 [prompt-hooks](https://github.com/zzamboni/elvish-modules/blob/master/prompt_hooks.org) | Utilities for manipulating prompt hooks. |
+|  🧩 [proxy](https://github.com/zzamboni/elvish-modules/blob/master/proxy.org) | A module for manipulating and auto-setting proxy variables |
+|  🧩 [spinners](https://github.com/zzamboni/elvish-modules/blob/master/spinners.org) | A module to generate different styles of progress spinners for use in Elvish scripts. |
+|  🧩 [terminal-title](https://github.com/zzamboni/elvish-modules/blob/master/terminal-title.org) | A module for automatically setting the terminal title. |
 | 📦 [github.com/iwoloschin/elvish-packages](https://github.com/iwoloschin/elvish-packages) |
-|  🧩 [github.com/iwoloschin/elvish-packages/python](https://github.com/iwoloschin/elvish-packages/blob/master/python.elv) | Support for Python virtual environments |
-|  🧩 [github.com/iwoloschin/elvish-packages/update](https://github.com/iwoloschin/elvish-packages/blob/master/update.elv) | A tool to check if a newer version of Elvish is available. |
+|  🧩 [python](https://github.com/iwoloschin/elvish-packages/blob/master/python.elv) | Support for Python virtual environments |
+|  🧩 [update](https://github.com/iwoloschin/elvish-packages/blob/master/update.elv) | A tool to check if a newer version of Elvish is available. |
 | 📦 [github.com/jkbr-19/sindarin-term](https://github.com/jkbr-19/sindarin-term) |
-|  🧩 [github.com/jkbr-19/sindarin-term/date-elv](https://github.com/jkbr-19/sindarin-term/blob/master/date-elv.elv) | A module for printing the date in elvish (Sindarin) written in Elvish |
+|  🧩 [date-elv](https://github.com/jkbr-19/sindarin-term/blob/master/date-elv.elv) | A module for printing the date in elvish (Sindarin) written in Elvish |
 | 📦 [github.com/champii/elvish-base](https://github.com/champii/elvish-base) |
-|  🧩 [github.com/champii/elvish-base/git](https://github.com/champii/elvish-base/blob/master/git.elv) | Git helpers |
-|  🧩 [github.com/champii/elvish-base/utils](https://github.com/champii/elvish-base/blob/master/utils.elv) | Helpers for usual shell manipulation |
-|  🧩 [github.com/champii/elvish-base/fs](https://github.com/champii/elvish-base/blob/master/fs.elv) | FS helpers and object oriented files |
-| 📦 Package [github.com/href/elvish-gitstatus](https://github.com/href/elvish-gitstatus) |
-|  🧩 [github.com/href/elvish-gitstatus/gitstatus](https://github.com/href/elvish-gitstatus/blob/master/gitstatus.elv) | [Gitstatus](https://github.com/romkatv/gitstatus) integration for Elvish. |
+|  🧩 [git](https://github.com/champii/elvish-base/blob/master/git.elv) | Git helpers |
+|  🧩 [utils](https://github.com/champii/elvish-base/blob/master/utils.elv) | Helpers for usual shell manipulation |
+|  🧩 [fs](https://github.com/champii/elvish-base/blob/master/fs.elv) | FS helpers and object oriented files |
+| 🧩 [github.com/href/elvish-gitstatus/gitstatus](https://github.com/href/elvish-gitstatus/blob/master/gitstatus.elv) | [Gitstatus](https://github.com/romkatv/gitstatus) integration for Elvish. |
 | 📦 [github.com/doubleagent/rivendell](https://github.com/doubleagent/rivendell) |
-|  🧩 [github.com/doubleagent/rivendell/fun](https://github.com/doubleagent/rivendell/blob/master/fun.elv) | Helps your elvish code to be more functional |
-|  🧩 [github.com/doubleagent/rivendell/lazy](https://github.com/doubleagent/rivendell/blob/master/lazy.elv) | Gives you access to lazy iterators, infinite sequences, and multiple higher-level iterators |
+|  🧩 [fun](https://github.com/doubleagent/rivendell/blob/master/fun.elv) | Helps your elvish code to be more functional |
+|  🧩 [lazy](https://github.com/doubleagent/rivendell/blob/master/lazy.elv) | Gives you access to lazy iterators, infinite sequences, and multiple higher-level iterators |
 | 🧩 [github.com/kolbycrouch/elvish-libs/pure](https://github.com/kolbycrouch/elvish-libs/tree/master/pure) | Pure elvish utility libraries |
 | 🧩 [github.com/gergelyk/elvish-libs/python](https://github.com/gergelyk/elvish-libs/blob/main/python.elv) | Evaluate Python inplace. Switch venv automatically. |
 
