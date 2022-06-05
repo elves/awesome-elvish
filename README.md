@@ -10,7 +10,7 @@ A curated list of awesome Elvish packages, modules, and tools that support Elvis
 
 ## Prompt Themes
 
-| Name | Description |
+| Item | Description |
 | ---- | ----------- |
 | 🧩 [github.com/muesli/elvish-libs/powerline](https://github.com/muesli/elvish-libs/blob/master/theme/powerline.elv) | Powerline style prompt theme |
 | 🧩 [github.com/zzamboni/elvish-themes/chain](https://github.com/zzamboni/elvish-themes/blob/master/chain.org) | Super configurable prompt theme with Git support |
@@ -21,7 +21,7 @@ A curated list of awesome Elvish packages, modules, and tools that support Elvis
 
 ## Completion Scripts
 
-| Name | Description |
+| Item | Description |
 | ---- | ----------- |
 | 📦 [github.com/xiaq/edit.elv](https://github.com/xiaq/edit.elv) | Includes completion scripts for for `go` and `git` |
 | 📦 [zzamboni/elvish-completions](https://github.com/zzamboni/elvish-completions) | Includes completion scripts for `cd`, `git`, `vcsh` |
@@ -43,13 +43,13 @@ A curated list of awesome Elvish packages, modules, and tools that support Elvis
 
 ## Terminal Integration
 
-| Terminal | Name | Description |
+| Terminal | Item | Description |
 | -------- | ---- | ----------- |
 | iTerm2 | 🧩 [github.com/zzamboni/elvish-modules/iterm2](https://github.com/zzamboni/elvish-modules/blob/master/iterm2.org) | Support for iTerm2 [Shell Integration](https://iterm2.com/documentation-shell-integration.html) features. |
 
 ## General Libraries
 
-| Name | Description |
+| Item | Description |
 | ---- | ----------- |
 | 📦 [github.com/muesli/elvish-libs](https://github.com/muesli/elvish-libs) |
 |  🧩 [git](https://github.com/muesli/elvish-libs/blob/master/git.elv) | Git utility functions (mainly for prompts) |
@@ -81,7 +81,7 @@ A curated list of awesome Elvish packages, modules, and tools that support Elvis
 
 ## More Awesome Elvish Stuff
 
-| Name | Description |
+| Item | Description |
 | ---- | ----------- |
 | 🛠 [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) | A fast alternative to `cd` that learns your habits. |
 | 📄 [zzamboni/dot_elvish](https://github.com/zzamboni/dot_elvish/blob/master/rc.org) | Documented `rc.elv` file, using many of the modules above. |
