@@ -23,7 +23,7 @@ A curated list of awesome Elvish packages, modules, and tools that support Elvis
 
 | Item | Description |
 | ---- | ----------- |
-| 📦 [github.com/xiaq/edit.elv](https://github.com/xiaq/edit.elv) | Includes completion scripts for for `go` and `git` |
+| 📦 [github.com/xiaq/edit.elv](https://github.com/xiaq/edit.elv) | Includes completion scripts for `go` and `git` |
 | 📦 [zzamboni/elvish-completions](https://github.com/zzamboni/elvish-completions) | Includes completion scripts for `cd`, `git`, `vcsh` |
 | 📦 [aca/elvish-bash-completion](https://github.com/aca/elvish-bash-completion) | Converts any bash completion to elvish |
 | 🛠 [rsteube/carapace-bin](https://github.com/rsteube/carapace-bin) | Built-in completions for [over 400 commands](https://rsteube.github.io/carapace-bin/completers.html), and support for custom completions |
@@ -35,7 +35,7 @@ A curated list of awesome Elvish packages, modules, and tools that support Elvis
 | [Emacs](https://www.gnu.org/software/emacs/) | [elvish-mode](https://github.com/ALSchwalm/elvish-mode) |
 | [Vim](http://www.vim.org/) | [elvish.vim](https://github.com/dmix/elvish.vim) |
 | [Atom](https://atom.io/) | [language-elvish](https://atom.io/packages/language-elvish) |
-| [Kakoune](http://kakoune.org/) | Builtin support |
+| [Kakoune](http://kakoune.org/) | Builtin support; [kak-lsp](https://github.com/kak-lsp/kak-lsp) also has builtin LSP configuration for Elvish |
 | [VSCode](https://code.visualstudio.com/) | [official extension](https://marketplace.visualstudio.com/items?itemName=elves.elvish) |
 | [Sublime Text 3](https://www.sublimetext.com) | [elvish_syntax_for_sublime](https://github.com/href/elvish_syntax_for_sublime) |
 | [PyCharm](https://www.jetbrains.com/pycharm) | [elvish-lang-plugin](https://github.com/sblundy/elvish-lang-plugin) |
