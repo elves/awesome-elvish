@@ -30,6 +30,7 @@ epm:install <package name>
     * [github.com/zzamboni/elvish-completions/git](https://github.com/zzamboni/elvish-completions/blob/master/git.org): completion for `git`
     * [github.com/zzamboni/elvish-completions/vcsh](https://github.com/zzamboni/elvish-completions/blob/master/vcsh.org): completion for `vcsh`
   * [rsteube/carapace-bin](https://github.com/rsteube/carapace-bin) built-in completions for [over 400 commands](https://rsteube.github.io/carapace-bin/completers.html), and support for custom completions (not an `epm` package)
+  * [aca/elvish-bash-completion](https://github.com/aca/elvish-bash-completion) to convert any bash completion to elvish.
 
 ## Elvish Libraries
   * Package [github.com/muesli/elvish-libs](https://github.com/muesli/elvish-libs)
@@ -60,6 +61,8 @@ epm:install <package name>
     * [github.com/doubleagent/rivendell/lazy](https://github.com/doubleagent/rivendell/blob/master/lazy.elv): Gives you access to lazy iterators, infinite sequences, and multiple higher-level iterators  
   * Package [github.com/kolbycrouch/elvish-libs](https://github.com/kolbycrouch/elvish-libs)
     * [github.com/kolbycrouch/elvish-libs/pure](https://github.com/kolbycrouch/elvish-libs/tree/master/pure): Pure elvish utility libraries
+  * Package [github.com/gergelyk/elvish-libs](https://github.com/gergelyk/elvish-libs)
+    * [github.com/gergelyk/elvish-libs/python](https://github.com/gergelyk/elvish-libs/blob/main/python.elv): Evaluate Python inplace. Switch venv automatically.
 
 ## Editor Support
   * [elvish-mode](https://github.com/ALSchwalm/elvish-mode) package for [Emacs](https://www.gnu.org/software/emacs/).
