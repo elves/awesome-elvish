@@ -58,7 +58,7 @@ A curated list of awesome Elvish packages, modules, and tools that support Elvis
 |  🧩 [bang-bang](https://github.com/zzamboni/elvish-modules/blob/master/bang-bang.org) | Support for the traditional `!!` and `!$` keybindings |
 |  🧩 [dir](https://github.com/zzamboni/elvish-modules/blob/master/dir.org) | Directory stack and support for `cd -` to mean "previous directory" |
 |  🧩 [long-running-notifications](https://github.com/zzamboni/elvish-modules/blob/master/long-running-notifications.org) | Notifications for long-running commands |
-|  🧩 [elvish-modules/nix](https://github.com/zzamboni/elvish-modules/blob/master/nix.org) | Environment setting and some wrapper utilities for the [Nix](https://nixos.org/nix/) package manager. |
+|  🧩 [nix](https://github.com/zzamboni/elvish-modules/blob/master/nix.org) | Environment setting and some wrapper utilities for the [Nix](https://nixos.org/nix/) package manager. |
 |  🧩 [prompt-hooks](https://github.com/zzamboni/elvish-modules/blob/master/prompt_hooks.org) | Utilities for manipulating prompt hooks. |
 |  🧩 [proxy](https://github.com/zzamboni/elvish-modules/blob/master/proxy.org) | A module for manipulating and auto-setting proxy variables |
 |  🧩 [spinners](https://github.com/zzamboni/elvish-modules/blob/master/spinners.org) | A module to generate different styles of progress spinners for use in Elvish scripts. |
