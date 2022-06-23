@@ -78,6 +78,9 @@ A curated list of awesome Elvish packages, modules, and tools that support Elvis
 |  🧩 [lazy](https://github.com/doubleagent/rivendell/blob/master/lazy.elv) | Gives you access to lazy iterators, infinite sequences, and multiple higher-level iterators |
 | 🧩 [github.com/kolbycrouch/elvish-libs/pure](https://github.com/kolbycrouch/elvish-libs/tree/master/pure) | Pure elvish utility libraries |
 | 🧩 [github.com/gergelyk/elvish-libs/python](https://github.com/gergelyk/elvish-libs/blob/main/python.elv) | Evaluate Python inplace. Switch venv automatically. |
+| 📦 [github.com/krader1961/elvish-lib](https://github.com/krader1961/elvish-lib) |
+|  🧩 [cmd-duration](https://github.com/krader1961/elvish-lib/blob/master/cmd-duration.elv) | Provides function `human-readable` to make it easy to include a human friendly representation, in your prompt, of the duration of the most recent command. |
+|  🧩 [util-unix](https://github.com/krader1961/elvish-lib/blob/master/util-unix.elv) | Provides command `ulimit` for displaying and modifying the `unix:rlimits` variable in a manner more like traditional POSIX shells. |
 
 ## More Awesome Elvish Stuff
 
