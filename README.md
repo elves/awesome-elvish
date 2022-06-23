@@ -1,7 +1,9 @@
 # awesome-elvish
 
-A curated list of awesome Elvish packages, modules, and tools that support Elvish.
+A curated list of awesome Elvish packages, modules, and tools that support
+Elvish.
 
+<!-- prettier-ignore -->
 | Icon | Description |
 | ---- | ----------- |
 | 📦 | An Elvish package (a collection of related modules) - install directly with [epm](https://elv.sh/ref/epm.html#epm) |
@@ -10,6 +12,7 @@ A curated list of awesome Elvish packages, modules, and tools that support Elvis
 
 ## Prompt Themes
 
+<!-- prettier-ignore -->
 | Item | Description |
 | ---- | ----------- |
 | 🧩 [github.com/muesli/elvish-libs/powerline](https://github.com/muesli/elvish-libs/blob/master/theme/powerline.elv) | Powerline style prompt theme |
@@ -21,6 +24,7 @@ A curated list of awesome Elvish packages, modules, and tools that support Elvis
 
 ## Completion Scripts
 
+<!-- prettier-ignore -->
 | Item | Description |
 | ---- | ----------- |
 | 📦 [github.com/xiaq/edit.elv](https://github.com/xiaq/edit.elv) | Includes completion scripts for `go` and `git` |
@@ -30,6 +34,7 @@ A curated list of awesome Elvish packages, modules, and tools that support Elvis
 
 ## Editor Support
 
+<!-- prettier-ignore -->
 | Editor | Plugin |
 | ------ | ------ |
 | [Emacs](https://www.gnu.org/software/emacs/) | [elvish-mode](https://github.com/ALSchwalm/elvish-mode) |
@@ -43,12 +48,14 @@ A curated list of awesome Elvish packages, modules, and tools that support Elvis
 
 ## Terminal Integration
 
+<!-- prettier-ignore -->
 | Terminal | Item | Description |
 | -------- | ---- | ----------- |
 | iTerm2 | 🧩 [github.com/zzamboni/elvish-modules/iterm2](https://github.com/zzamboni/elvish-modules/blob/master/iterm2.org) | Support for iTerm2 [Shell Integration](https://iterm2.com/documentation-shell-integration.html) features. |
 
 ## General Libraries
 
+<!-- prettier-ignore -->
 | Item | Description |
 | ---- | ----------- |
 | 📦 [github.com/muesli/elvish-libs](https://github.com/muesli/elvish-libs) |
@@ -78,9 +85,13 @@ A curated list of awesome Elvish packages, modules, and tools that support Elvis
 |  🧩 [lazy](https://github.com/doubleagent/rivendell/blob/master/lazy.elv) | Gives you access to lazy iterators, infinite sequences, and multiple higher-level iterators |
 | 🧩 [github.com/kolbycrouch/elvish-libs/pure](https://github.com/kolbycrouch/elvish-libs/tree/master/pure) | Pure elvish utility libraries |
 | 🧩 [github.com/gergelyk/elvish-libs/python](https://github.com/gergelyk/elvish-libs/blob/main/python.elv) | Evaluate Python inplace. Switch venv automatically. |
+| 📦 [github.com/krader1961/elvish-lib](https://github.com/krader1961/elvish-lib) |
+|  🧩 [cmd-duration](https://github.com/krader1961/elvish-lib/blob/master/cmd-duration.elv) | Provides function `human-readable` to make it easy to include a human friendly representation, in your prompt, of the duration of the most recent command. |
+|  🧩 [util-unix](https://github.com/krader1961/elvish-lib/blob/master/util-unix.elv) | Provides command `ulimit` for displaying and modifying the `unix:rlimits` variable in a manner more like traditional POSIX shells. |
 
 ## More Awesome Elvish Stuff
 
+<!-- prettier-ignore -->
 | Item | Description |
 | ---- | ----------- |
 | 🛠 [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) | A fast alternative to `cd` that learns your habits. |
