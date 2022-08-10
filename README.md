@@ -40,7 +40,7 @@ A curated list of awesome Elvish packages, modules, and tools that support Elvis
 | [Sublime Text 3](https://www.sublimetext.com) | [elvish_syntax_for_sublime](https://github.com/href/elvish_syntax_for_sublime) |
 | [PyCharm](https://www.jetbrains.com/pycharm) | [elvish-lang-plugin](https://github.com/sblundy/elvish-lang-plugin) |
 | [Micro](https://github.com/zyedidia/micro) | [elvish-micro-syntax](https://github.com/kolbycrouch/elvish-micro-syntax) |
-| [Helix](https://github.com/helix-editor/helix) | Builtin support; [elvish](https://github.com/elves/elvish) as `elvish -lsp` |
+| [Helix](https://github.com/helix-editor/helix) | Builtin support, including integration with `elvish -lsp` |
 
 ## Terminal Integration
 
