@@ -78,3 +78,4 @@ epm:install <package name>
 ## More Awesome Elvish Stuff
   * [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide): a fast alternative to `cd` that learns your habits.
   * [zzamboni/dot_elvish](https://github.com/zzamboni/dot_elvish/blob/master/rc.org): Documented `rc.elv` file, using many of the modules above.
+  * [hub.docker.com/r/gergelyk/elvish](https://hub.docker.com/r/gergelyk/elvish): Docker image. Includes instructions on how to use it in shebang.
