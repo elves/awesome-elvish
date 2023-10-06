@@ -124,4 +124,4 @@ A curated list of awesome Elvish packages, modules, and tools that support Elvis
 | 🛠 [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) | A fast alternative to `cd` that learns your habits. |
 | 📄 [zzamboni/dot_elvish](https://github.com/zzamboni/dot_elvish/blob/master/rc.org) | Documented `rc.elv` file, using many of the modules above. |
 | 📄 [darcy-shen/oh-my-elvish](https://github.com/darcy-shen/oh-my-elvish) | User-friendly, productive and cross-platform elvish configuration. |
-| 📄 [hub.docker.com/r/gergelyk/elvish](https://hub.docker.com/r/gergelyk/elvish): Docker image. Includes instructions on how to use it in shebang. |
+| 📄 [hub.docker.com/r/gergelyk/elvish](https://hub.docker.com/r/gergelyk/elvish) | Docker image. Includes instructions on how to use it in shebang. |
