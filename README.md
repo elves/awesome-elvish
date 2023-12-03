@@ -82,6 +82,9 @@ A curated list of awesome Elvish packages, modules, and tools that support Elvis
 | 📦 [github.com/krader1961/elvish-lib](https://github.com/krader1961/elvish-lib) |
 |  🧩 [cmd-duration](https://github.com/krader1961/elvish-lib/blob/master/cmd-duration.elv) | Provides function `human-readable` to make it easy to include a human friendly representation, in your prompt, of the duration of the most recent command. |
 |  🧩 [util-unix](https://github.com/krader1961/elvish-lib/blob/master/util-unix.elv) | Provides command `ulimit` for displaying and modifying the `unix:rlimits` variable in a manner more like traditional POSIX shells. |
+| 📦 [github.com/iandol/elvish-modules](https://github.com/iandol/elvish-modules) |
+|  🧩 [mamba](https://github.com/iandol/elvish-modules/blob/main/mamba.elv) | support for `conda` / `mamba` / `micromamba` package manager. For more complex conda recipes that run POSIX scripts, it captures the environment and imports it for elvish. |
+|  🧩 [cmds](https://github.com/krader1961/elvish-lib/blob/master/util-unix.elv) | utility functions to perform helpful shell actions: add/remove (`append-to-path`, `prepend-to-path`, `remove-from-path`) or filter (`filter`, `filter-out`, `filter-re`, `filter-re-out`) lists like the path list; `if-external` - check a executable then run tasks if it is, or is not present; list utils `list-unique`, `list-diff`, `list-append`, `list-intersect`, `list-find` and several others. |
 
 ## More Awesome Elvish Stuff
 
