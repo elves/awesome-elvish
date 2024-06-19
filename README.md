@@ -93,5 +93,5 @@ A curated list of awesome Elvish packages, modules, and tools that support Elvis
 | 🛠 [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) | A fast alternative to `cd` that learns your habits. |
 | 📄 [zzamboni/dot_elvish](https://github.com/zzamboni/dot_elvish/blob/master/rc.org) | Documented `rc.elv` file, using many of the modules above. |
 | 📄 [darcy-shen/oh-my-elvish](https://github.com/darcy-shen/oh-my-elvish) | User-friendly, productive and cross-platform elvish configuration. |
-| 🛠 [x-cmd](https://www.x-cmd.com/) | x-cmd is a vast and interesting collection of tools guided by the Unix philosophy. |
+| 🛠 [x-cmd](https://www.x-cmd.com/) | x-cmd is a vast and interesting collection of tools guided by the Unix philosophy, with [support for Elvish](https://www.x-cmd.com/mod/elv). |
 
