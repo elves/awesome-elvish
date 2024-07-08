@@ -85,6 +85,9 @@ A curated list of awesome Elvish packages, modules, and tools that support Elvis
 | 📦 [github.com/iandol/elvish-modules](https://github.com/iandol/elvish-modules) |
 |  🧩 [mamba](https://github.com/iandol/elvish-modules/blob/main/mamba.elv) | support for `conda` / `mamba` / `micromamba` package manager. For more complex conda recipes that run POSIX scripts, it captures the environment and imports it for elvish. |
 |  🧩 [cmds](https://github.com/krader1961/elvish-lib/blob/master/util-unix.elv) | utility functions to perform helpful shell actions: add/remove (`append-to-path`, `prepend-to-path`, `remove-from-path`) or filter (`filter`, `filter-out`, `filter-re`, `filter-re-out`) lists like the path list; `if-external` - check a executable then run tasks if it is, or is not present; list utils `list-unique`, `list-diff`, `list-append`, `list-intersect`, `list-find` and several others. |
+| 📦 [github.com/tesujimath/bash-env-elvish](https://github.com/tesujimath/bash-env-elvish) |
+|  🧩 [bash-env](https://github.com/tesujimath/bash-env-elvish/blob/main/bash-env.elv) | Import Bash environment into Elvish. |
+|  🧩 [virtualenv](https://github.com/tesujimath/bash-env-elvish/blob/main/virtualenv.elv) | Activate/deactivate Python virtualenv. |
 
 ## More Awesome Elvish Stuff
 
