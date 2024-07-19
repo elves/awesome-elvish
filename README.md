@@ -42,13 +42,21 @@ A curated list of awesome Elvish packages, modules, and tools that support Elvis
 | [Micro](https://github.com/zyedidia/micro) | [elvish-micro-syntax](https://github.com/kolbycrouch/elvish-micro-syntax) |
 | [Helix](https://github.com/helix-editor/helix) | Builtin support, including integration with `elvish -lsp` |
 
+## General Tools With Built-in Support for Elvish
+
+| Item | Description |
+| ---- | ----------- |
+| 🛠 [x-cmd](https://www.x-cmd.com/) | x-cmd is a vast and interesting collection of tools guided by the Unix philosophy, with [support for Elvish](https://www.x-cmd.com/mod/elv). |
+| 🛠 [pixi](https://pixi.sh/) | pixi is a performant new cross-platform package manager for Conda-forge packages that [supports Elvish completions](https://pixi.sh/latest/#autocompletion). It simplifies activation/deactivation compared to Conda/Mamba (and also allows global installs) and so works better with non-posix shells. |
+| 🛠 [dorothy](https://github.com/bevry/dorothy) | Bring your dotfile commands to any shell. Sensible defaults and hundreds of commands preloaded. Supports Elvish on macOS, Linux, Windows. |
+
 ## Terminal Integration
 
 | Terminal | Item | Description |
 | -------- | ---- | ----------- |
 | iTerm2 | 🧩 [github.com/zzamboni/elvish-modules/iterm2](https://github.com/zzamboni/elvish-modules/blob/master/iterm2.org) | Support for iTerm2 [Shell Integration](https://iterm2.com/documentation-shell-integration.html) features. |
 
-## General Libraries
+## General Libraries (Modules)
 
 | Item | Description |
 | ---- | ----------- |
@@ -96,6 +104,5 @@ A curated list of awesome Elvish packages, modules, and tools that support Elvis
 | 🛠 [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) | A fast alternative to `cd` that learns your habits. |
 | 📄 [zzamboni/dot_elvish](https://github.com/zzamboni/dot_elvish/blob/master/rc.org) | Documented `rc.elv` file, using many of the modules above. |
 | 📄 [darcy-shen/oh-my-elvish](https://github.com/darcy-shen/oh-my-elvish) | User-friendly, productive and cross-platform elvish configuration. |
-| 🛠 [x-cmd](https://www.x-cmd.com/) | x-cmd is a vast and interesting collection of tools guided by the Unix philosophy, with [support for Elvish](https://www.x-cmd.com/mod/elv). |
-| 🛠 [dorothy](https://github.com/bevry/dorothy) | Bring your dotfile commands to any shell. Sensible defaults and hundreds of commands preloaded. Supports Elvish on macOS, Linux, Windows. |
+
 
