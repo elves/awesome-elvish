@@ -88,6 +88,7 @@ A curated list of awesome Elvish packages, modules, and tools that support Elvis
 | 📦 [github.com/tesujimath/bash-env-elvish](https://github.com/tesujimath/bash-env-elvish) |
 |  🧩 [bash-env](https://github.com/tesujimath/bash-env-elvish/blob/main/bash-env.elv) | Import Bash environment into Elvish. |
 |  🧩 [virtualenv](https://github.com/tesujimath/bash-env-elvish/blob/main/virtualenv.elv) | Activate/deactivate Python virtualenv. |
+|  🧩 [nvm](https://github.com/tesujimath/bash-env-elvish/blob/main/nvm.elv) | Support for NVM (node version manager). |
 
 ## More Awesome Elvish Stuff
 
