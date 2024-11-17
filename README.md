@@ -18,6 +18,7 @@ A curated list of awesome Elvish packages, modules, and tools that support Elvis
 | 🧩 [github.com/tylerreckart/gondolin/gondolin](https://github.com/tylerreckart/gondolin/blob/master/gondolin.elv) | A simple two-line prompt with extensive Git support |
 | 🧩 [gitlab.com/SneakyThunder/silver-prompt-elv/silver](https://gitlab.com/SneakyThunder/silver-prompt-elv/-/blob/master/silver.elv) | Elvish integration for [silver](https://github.com/reujab/silver/), a cross-shell customizable powerline-like prompt written in Rust |
 | 🛠 [Starship](https://starship.rs) | A cross-shell, minimal, blazingly-fast prompt written in Rust |
+| 🛠 [oh-my-posh](https://ohmyposh.dev) | A cross-shell, highly configurable, blazingly-fast prompt written in Go |
 
 ## Completion Scripts
 
