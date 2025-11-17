@@ -111,3 +111,4 @@ A curated list of awesome Elvish packages, modules, and tools that support Elvis
 | 📄 [zzamboni/dot_elvish](https://github.com/zzamboni/dot_elvish/blob/master/rc.org) | Documented `rc.elv` file, using many of the modules above. |
 | 📄 [darcy-shen/oh-my-elvish](https://github.com/darcy-shen/oh-my-elvish) | User-friendly, productive and cross-platform elvish configuration. |
 | 🛠 [elvish.nix](https://github.com/tesujimath/elvish.nix) | Nix support for Elvish packages, a multi-user-friendly alternative to `epm`. |
+| 📦 [velvet](https://github.com/giancosta86/velvet) | Smooth, functional testing in the Elvish shell. |
