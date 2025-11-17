@@ -100,6 +100,8 @@ A curated list of awesome Elvish packages, modules, and tools that support Elvis
 |  🧩 [nvm](https://github.com/tesujimath/bash-env-elvish/blob/main/nvm.elv) | Support for NVM (node version manager). |
 | 📦 [github.com/tesujimath/elvish-tap](https://github.com/tesujimath/elvish-tap) |
 |  🧩 [tap](https://github.com/tesujimath/elvish-tap/blob/main/tap.elv) | [Test Anything Protocol](https://testanything.org/) (TAP) for Elvish. |
+| 📦 [github.com/tesujimath/direlv](https://github.com/tesujimath/direlv) |
+|  🧩 [direlv](https://github.com/tesujimath/direlv/blob/main/direlv.elv) | Directory activation for Elvish in the spirit of [direnv](https://direnv.net/) |
 
 ## More Awesome Elvish Stuff
 
@@ -108,5 +110,3 @@ A curated list of awesome Elvish packages, modules, and tools that support Elvis
 | 🛠 [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) | A fast alternative to `cd` that learns your habits. |
 | 📄 [zzamboni/dot_elvish](https://github.com/zzamboni/dot_elvish/blob/master/rc.org) | Documented `rc.elv` file, using many of the modules above. |
 | 📄 [darcy-shen/oh-my-elvish](https://github.com/darcy-shen/oh-my-elvish) | User-friendly, productive and cross-platform elvish configuration. |
-
-
