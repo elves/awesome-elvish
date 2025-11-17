@@ -15,9 +15,9 @@ A curated list of awesome Elvish packages, modules, and tools that support Elvis
 | 🧩 [github.com/muesli/elvish-libs/powerline](https://github.com/muesli/elvish-libs/blob/master/theme/powerline.elv) | Powerline style prompt theme |
 | 🧩 [github.com/zzamboni/elvish-themes/chain](https://github.com/zzamboni/elvish-themes/blob/master/chain.org) | Super configurable prompt theme with Git support |
 | 🧩 [github.com/champii/elvish-base/prompt](https://github.com/champii/elvish-base/blob/master/prompt.elv) | Very basic prompt over two lines with simple git support |
-| 🧩 [github.com/tylerreckart/gondolin/gondolin](https://github.com/tylerreckart/gondolin/blob/master/gondolin.elv) | A simple two-line prompt with extensive Git support |
 | 🧩 [gitlab.com/SneakyThunder/silver-prompt-elv/silver](https://gitlab.com/SneakyThunder/silver-prompt-elv/-/blob/master/silver.elv) | Elvish integration for [silver](https://github.com/reujab/silver/), a cross-shell customizable powerline-like prompt written in Rust |
 | 🛠 [Starship](https://starship.rs) | A cross-shell, minimal, blazingly-fast prompt written in Rust |
+| 🛠 [oh-my-posh](https://ohmyposh.dev) | A cross-shell, highly configurable, blazingly-fast prompt written in Go |
 
 ## Completion Scripts
 
@@ -42,13 +42,21 @@ A curated list of awesome Elvish packages, modules, and tools that support Elvis
 | [Micro](https://github.com/zyedidia/micro) | [elvish-micro-syntax](https://github.com/kolbycrouch/elvish-micro-syntax) |
 | [Helix](https://github.com/helix-editor/helix) | Builtin support, including integration with `elvish -lsp` |
 
+## General Tools With Built-in Support for Elvish
+
+| Item | Description |
+| ---- | ----------- |
+| 🛠 [x-cmd](https://www.x-cmd.com/) | x-cmd is a vast and interesting collection of tools guided by the Unix philosophy, with [support for Elvish](https://www.x-cmd.com/mod/elv). |
+| 🛠 [pixi](https://pixi.sh/) | pixi is a performant new cross-platform package manager for Conda-forge packages that [supports Elvish completions](https://pixi.sh/latest/#autocompletion). It simplifies activation/deactivation compared to Conda/Mamba (and also allows global installs) and so works better with non-posix shells. |
+| 🛠 [dorothy](https://github.com/bevry/dorothy) | Bring your dotfile commands to any shell. Sensible defaults and hundreds of commands preloaded. Supports Elvish on macOS, Linux, Windows. |
+
 ## Terminal Integration
 
 | Terminal | Item | Description |
 | -------- | ---- | ----------- |
 | iTerm2 | 🧩 [github.com/zzamboni/elvish-modules/iterm2](https://github.com/zzamboni/elvish-modules/blob/master/iterm2.org) | Support for iTerm2 [Shell Integration](https://iterm2.com/documentation-shell-integration.html) features. |
 
-## General Libraries
+## General Libraries (Modules)
 
 | Item | Description |
 | ---- | ----------- |
@@ -89,8 +97,11 @@ A curated list of awesome Elvish packages, modules, and tools that support Elvis
 |  🧩 [bash-env](https://github.com/tesujimath/bash-env-elvish/blob/main/bash-env.elv) | Import Bash environment into Elvish. |
 |  🧩 [virtualenv](https://github.com/tesujimath/bash-env-elvish/blob/main/virtualenv.elv) | Activate/deactivate Python virtualenv. |
 |  🧩 [nvm](https://github.com/tesujimath/bash-env-elvish/blob/main/nvm.elv) | Support for NVM (node version manager). |
+|  🧩 [lmod](https://github.com/tesujimath/bash-env-elvish/blob/main/lmod.elv) | Support for [Lmod Environment Modules](https://lmod.readthedocs.io/en/latest/index.html). |
 | 📦 [github.com/tesujimath/elvish-tap](https://github.com/tesujimath/elvish-tap) |
 |  🧩 [tap](https://github.com/tesujimath/elvish-tap/blob/main/tap.elv) | [Test Anything Protocol](https://testanything.org/) (TAP) for Elvish. |
+| 📦 [github.com/tesujimath/direlv](https://github.com/tesujimath/direlv) |
+|  🧩 [direlv](https://github.com/tesujimath/direlv/blob/main/direlv.elv) | Directory activation for Elvish in the spirit of [direnv](https://direnv.net/) |
 
 ## More Awesome Elvish Stuff
 
@@ -99,7 +110,5 @@ A curated list of awesome Elvish packages, modules, and tools that support Elvis
 | 🛠 [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) | A fast alternative to `cd` that learns your habits. |
 | 📄 [zzamboni/dot_elvish](https://github.com/zzamboni/dot_elvish/blob/master/rc.org) | Documented `rc.elv` file, using many of the modules above. |
 | 📄 [darcy-shen/oh-my-elvish](https://github.com/darcy-shen/oh-my-elvish) | User-friendly, productive and cross-platform elvish configuration. |
-| 🛠 [x-cmd](https://www.x-cmd.com/) | x-cmd is a vast and interesting collection of tools guided by the Unix philosophy, with [support for Elvish](https://www.x-cmd.com/mod/elv). |
-| 🛠 [dorothy](https://github.com/bevry/dorothy) | Bring your dotfile commands to any shell. Sensible defaults and hundreds of commands preloaded. Supports Elvish on macOS, Linux, Windows. |
+| 🛠 [elvish.nix](https://github.com/tesujimath/elvish.nix) | Nix support for Elvish packages, a multi-user-friendly alternative to `epm`. |
 | 📦 [velvet](https://github.com/giancosta86/velvet) | Smooth, functional testing in the Elvish shell. |
-
