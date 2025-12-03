@@ -102,6 +102,7 @@ A curated list of awesome Elvish packages, modules, and tools that support Elvis
 |  🧩 [tap](https://github.com/tesujimath/elvish-tap/blob/main/tap.elv) | [Test Anything Protocol](https://testanything.org/) (TAP) for Elvish. |
 | 📦 [github.com/tesujimath/direlv](https://github.com/tesujimath/direlv) |
 |  🧩 [direlv](https://github.com/tesujimath/direlv/blob/main/direlv.elv) | Directory activation for Elvish in the spirit of [direnv](https://direnv.net/) |
+| 📦 [ethereal](https://github.com/giancosta86/ethereal) | Elegant utilities for the Elvish shell. |
 
 ## More Awesome Elvish Stuff
 
